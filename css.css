@@ -1,0 +1,97 @@
+body {
+    direction: rtl;
+    background: #ebe7e0
+
+}
+
+.menu {
+    width: 100%;
+    background: #ddc49b;
+    margin-bottom: 100px;
+}
+
+a {
+    color: #c3765a;
+    font-size: 18px;
+}
+
+.menu tr {
+    text-align: center
+}
+
+.menu td {
+    padding: 15px;
+}
+
+.para {
+    float: right;
+    width: 50%;
+}
+
+blockquote img {
+    text-align: center;
+    float: right;
+    width: 50%;
+}
+
+h1 {
+    color: #4b3c2b;
+}
+
+.text {
+    font-size: 22px;
+    color: #4b3c2b;
+}
+
+ol li {
+    font-size: 22px;
+    color: #4b3c2b;
+}
+
+hr {
+    width: 33%;
+    text-align: right;
+    border: 1px solid #ddc49b;
+    margin-right: 0;
+}
+
+footer {
+    background: #4b3c2b;
+    padding: 20px;
+}
+.text-center{
+    text-align: center;
+
+}
+.doctor{
+    width: 75%;
+    margin: auto;
+}
+.doctor tr{
+    text-align: center;
+}
+.doctor td{
+    padding: 90px 50px ;
+    background: #ddc49b;
+    color: #4b3c2b;
+    font-weight: bold;
+    font-size: 20px;
+}
+.form{
+    text-align: center;
+    background: #ddc49b ;
+    margin: auto;
+}
+.form td{
+    padding: 5px;
+color: #4b3c2b;
+    font-size: 18px;
+    font-weight: 600;
+}
+.form td.value{
+    padding: 15px;
+}
+.form td img{
+    width: 60px;
+    height: 60px;
+}
